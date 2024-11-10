@@ -1,6 +1,6 @@
-### Group - 5130203/20101
+# Group - 5130203/20101
 
-### Team:
+## Team:
 
 - Abutalipov Alexandr
 - Gavshin Artem
